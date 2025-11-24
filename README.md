@@ -1,3 +1,3 @@
-#stock price prediction project
+#Restuarant analysis project
 
 #this is a end to end project
